@@ -1,1 +1,2 @@
-# karpov_courses_tasks
+# analyst_simulator
+

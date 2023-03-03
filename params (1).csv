@@ -1,0 +1,7 @@
+changepoint_prior_scale;seasonality_prior_scale;rmse;mape;metric
+0.5;0.01;442.5373543579693;0.28857178029026587;likes
+0.5;0.01;1485.4642056174494;0.19309499129497432;views
+0.1;0.01;363.065516;0.188323;DAUfeed
+;;;;
+;;;;
+;;;;
